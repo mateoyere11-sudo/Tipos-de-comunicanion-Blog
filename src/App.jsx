@@ -3,7 +3,7 @@ import { NavLink, Route, Routes } from 'react-router-dom'
 import Tematicas from './pages/Tematicas/Tematicas.jsx'
 import Evidencias from './pages/Evidencias/Evidencias.jsx'
 import Integrantes from './pages/Integrantes/Integrantes.jsx'
-import Inicio from './pages/inicio/Inicio.jsx'
+import Inicio from './pages/Inicio/Inicio.jsx'
 
 function App() {
   return (

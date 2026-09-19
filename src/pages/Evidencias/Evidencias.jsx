@@ -18,13 +18,7 @@ const evidencias = [
 		color: 'bg-amber-100 text-amber-700',
 	},
 	{
-		titulo: 'La sapa caramelo',
-		tipo: 'Documento Word',
-		archivo: '/Evidencias-Yeremi-Mateo/Yeremi-Mateo-Toro-Orozco-CUENTO-LA-SAPA-CARAMELO.docx',
-		color: 'bg-emerald-100 text-emerald-700',
-	},
-	{
-		titulo: 'Taller tipos de comunicación',
+		titulo: 'Taller tipos de 	comunicación',
 		tipo: 'Documento Word',
 		archivo: '/Evidencias-Yeremi-Mateo/2EV0_TALLER-TIPOS-DE-COMUNICACIÓN.docx',
 		color: 'bg-sky-100 text-sky-700',
@@ -34,6 +28,12 @@ const evidencias = [
 		tipo: 'Documento PDF',
 		archivo: '/Evidencias-Yeremi-Mateo/Investigación_Microexpresiones.pdf',
 		color: 'bg-amber-100 text-amber-700',
+	},
+	{
+		titulo: 'La sapa caramelo',
+		tipo: 'Documento Word',
+		archivo: '/Evidencias-Yeremi-Mateo/Yeremi-Mateo-Toro-Orozco-CUENTO-LA-SAPA-CARAMELO.docx',
+		color: 'bg-emerald-100 text-emerald-700',
 	},
 ]
 
@@ -45,16 +45,16 @@ const Eniderevidencias = [
 		color: 'bg-rose-100 text-rose-700',
 	},
 	{
-		titulo: 'La sapa caramelo',
-		tipo: 'Documento Word',
-		archivo: '/Evidencias-Enider/EneiderDavidRivasPrezCUENTO_LA_SAPA_CARAMELO.docx',
-		color: 'bg-sky-100 text-sky-700',
-	},
-	{
 		titulo: 'Funciones del Lenguaje (Roman Jakobson)',
 		tipo: 'Documento PDF',
 		archivo: '/Evidencias-Enider/FuncionesdelLenguaje-RomanJakobson.pdf',
 		color: 'bg-emerald-100 text-emerald-700',
+	},
+	{
+		titulo: 'La sapa caramelo',
+		tipo: 'Documento Word',
+		archivo: '/Evidencias-Enider/EneiderDavidRivasPrezCUENTO_LA_SAPA_CARAMELO.docx',
+		color: 'bg-sky-100 text-sky-700',
 	},
 ]
 
